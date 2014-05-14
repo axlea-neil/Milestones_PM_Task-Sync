@@ -1,4 +1,4 @@
-public class MilestoneTaskSyncer {
+public class Milestone1_Ext_TaskSyncer {
 
     /*
      *  Handles operations after an Insert operation in a PM Task.
